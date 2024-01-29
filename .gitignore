@@ -1,0 +1,28 @@
+# Ignore user-specific files and folders
+.user/
+*.log
+*.tmp
+PowerShell_transcript.*
+
+# Ignore output directories
+bin/
+obj/
+
+# Ignore dependency directories (for PowerShell modules, for example)
+modules/
+
+# Ignore sensitive information files
+secrets.txt
+
+# Ignore system and hidden files (Windows)
+Thumbs.db
+desktop.ini
+
+# Ignore IDE/editor-specific files (VS Code, for example)
+.vscode/
+
+# Ignore logs and debugging files
+logs/
+
+# Ignore compiled executables (if applicable)
+*.exe
