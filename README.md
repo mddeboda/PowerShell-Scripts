@@ -1,6 +1,7 @@
 # PowerShell-Scripts
 PowerShell Scripts Repository
-Welcome to my PowerShell Scripts repository! Here, you'll find a collection of useful PowerShell scripts for various tasks. Feel free to explore and use them to simplify your IT and automation needs.
+Welcome to my PowerShell Scripts repository! Here, you'll find a collection of PowerShell scripts for various tasks. Feel free to explore and use them to simplify your IT and automation needs.
+My primary interest in creating this repo of scripts was to improve Microsoft Secure Scores by implementing registry edits for tasks not yet capable of managing via intune.
 
 # Table of Contents
 Scripts  
