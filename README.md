@@ -14,7 +14,6 @@ Misc.
 Clone this repository to your local machine.  
 Navigate to the script you want to use.  
 Follow the instructions in the script's README for usage guidelines.  
-Enjoy the automation and efficiency!  
 # Contributing
 If you have improvements or additional scripts to share, contributions are welcome! Please follow these steps:  
 Fork the repository.  
